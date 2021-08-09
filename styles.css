@@ -10,14 +10,14 @@
 .me2 {
  width: 30%;
     float: right;
-    top: 20px;
+
 }
 
 .me3 {
  width: 30%;
-    float: right;
+    float: left;
     right: 30px;
- bottom: 30px;
+
 }
 
     #footer {
