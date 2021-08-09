@@ -2,7 +2,10 @@
  background-color: #ffd9b3;
 }
 
- 
+ #teksti {
+  padding: 15px;
+  margin: 15px;
+}
 
 .me2 {
  width: 10%;
