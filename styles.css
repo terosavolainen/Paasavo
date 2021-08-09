@@ -10,13 +10,17 @@
 .me2 {
  width: 30%;
     float: right;
-
+ margin-right: 8px;
+ margin-top: 8px;
+ margin-bottom: 8px;
 }
 
 .me3 {
  width: 30%;
     float: left;
-    right: 30px;
+ margin-right: 8px;
+ margin-top: 8px;
+   margin-bottom: 8px;
 
 }
 
