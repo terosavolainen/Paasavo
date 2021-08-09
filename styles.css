@@ -23,4 +23,11 @@
     margin: 25px;
 }
 
-
+    #footer {
+      background-color: black;
+      clear: both;
+      font-size: 17px;
+      color: white;
+      text-align: center;
+      position: relative;
+    }
