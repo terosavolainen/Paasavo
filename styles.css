@@ -17,7 +17,6 @@
 
 .me3 {
  width: 30%;
- position: absolute;
     float: right;
     padding: 20px;
     margin: 25px;
@@ -33,6 +32,6 @@
     }
 
 .kauppa-img {
-    width: 100px;
+    width: 50px;
     object-fit: cover;
 }
