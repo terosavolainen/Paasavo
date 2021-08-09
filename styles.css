@@ -9,6 +9,7 @@
 
 .me2 {
  width: 30%;
+ position: relative;
     float: right;
     padding: 20px;
     margin: 25px;
@@ -16,6 +17,7 @@
 
 .me3 {
  width: 30%;
+ position: absolute;
     float: right;
     padding: 20px;
     margin: 25px;
