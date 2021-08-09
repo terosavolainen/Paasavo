@@ -35,3 +35,8 @@
     width: 50px;
     object-fit: cover;
 }
+
+.blog-img {
+ width: 20%;
+ object-fit: cover;
+}
