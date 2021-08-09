@@ -33,7 +33,6 @@
     }
 
 .kauppa-img {
-    width: 261px;
-    height: 200px;
+    width: 100px;
     object-fit: cover;
 }
